@@ -132,7 +132,6 @@ export default function ExitPopup() {
               Continuar lendo o artigo
             </button>
           </div>
-          </div>
         </div>
       </div>
     </div>
