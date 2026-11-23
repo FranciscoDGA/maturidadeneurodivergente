@@ -143,14 +143,8 @@ export default function Contact() {
               Redes Sociais
             </h3>
             <div className="flex flex-col gap-3">
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-colors p-2 -mx-2 rounded-xl hover:bg-neutral-50 dark:hover:bg-slate-700/50">
-                <span className="text-xl">📷</span> Instagram
-              </a>
-              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-colors p-2 -mx-2 rounded-xl hover:bg-neutral-50 dark:hover:bg-slate-700/50">
-                <span className="text-xl">𝕏</span> Twitter
-              </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-colors p-2 -mx-2 rounded-xl hover:bg-neutral-50 dark:hover:bg-slate-700/50">
-                <span className="text-xl">💼</span> LinkedIn
+              <a href="https://instagram.com/maturidadend" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-neutral-600 dark:text-neutral-400 hover:text-primary-600 dark:hover:text-primary-400 font-medium transition-colors p-2 -mx-2 rounded-xl hover:bg-neutral-50 dark:hover:bg-slate-700/50">
+                <span className="text-xl">📷</span> Instagram (@maturidadend)
               </a>
             </div>
           </div>

@@ -48,6 +48,8 @@ export function generateBlogPostSchema(post: {
   };
 }
 
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://maturidadeneurodivergente.vercel.app";
+
 export function generateOrganizationSchema() {
   return {
     "@context": "https://schema.org",
@@ -55,8 +57,8 @@ export function generateOrganizationSchema() {
     name: "Maturidade Neurodivergente",
     description:
       "Um espaço inclusivo para entender maturidade neurodivergente com clareza, compaixão e acessibilidade.",
-    url: "https://maturidadeneurodivergente.com.br",
-    logo: "https://maturidadeneurodivergente.com.br/logo.png",
+    url: SITE_URL,
+    logo: `${SITE_URL}/logo.png`,
     sameAs: [
       "https://instagram.com/maturidadend",
       "https://twitter.com/maturidadend",

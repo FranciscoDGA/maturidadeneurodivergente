@@ -68,14 +68,14 @@ export default function Home() {
           Maturidade <br className="hidden sm:block"/> Neurodivergente
         </h1>
         <p className="text-neutral-600 dark:text-neutral-400 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-          Um espaço calmo para mentes ativas. Sem ruído — apenas reflexão, significado e tecnologia a favor da sua evolução.
+          Apoio, reflexão e estratégias práticas para adultos neurodivergentes (TDAH, TEA, Altas Habilidades/Superdotação) — com foco em autoconhecimento, rotina e descoberta na vida adulta.
         </p>
         
         {/* Trust Indicators */}
         <div className="flex flex-wrap justify-center gap-6 pt-4">
           <div className="flex items-center gap-2 text-sm text-neutral-500 dark:text-neutral-400">
             <svg className="w-5 h-5 text-primary-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" /></svg>
-            Conteúdo por neurodivergentes
+            Espaço informativo e acolhedor
           </div>
           <div className="flex items-center gap-2 text-sm text-neutral-500 dark:text-neutral-400">
             <svg className="w-5 h-5 text-primary-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" /></svg>
@@ -83,7 +83,7 @@ export default function Home() {
           </div>
           <div className="flex items-center gap-2 text-sm text-neutral-500 dark:text-neutral-400">
             <svg className="w-5 h-5 text-primary-500" fill="currentColor" viewBox="0 0 20 20"><path d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" /></svg>
-            Baseado em evidências
+            Não substitui avaliação clínica
           </div>
         </div>
       </div>
